@@ -10,11 +10,11 @@
   
   ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Softawre Engineering student at Holberton School. C, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am an undergraduate Softawre Engineering student at Holberton School. C, Python, Flask, Javascript, HTML, CSS, Boostrap, JQuery, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web Development, Web designing, and Digital Marketing**
 - 🌱 I’m currently learning ...
-  - Angular
-  - Flutter
+  - React
+  - JQuery
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read books, 🎵 listen to music, and 🌴 explore nature outdoors.
@@ -23,13 +23,17 @@ I am an undergraduate Softawre Engineering student at Holberton School. C, Pytho
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=1572B6)&nbsp;
+![RESTful_API](https://img.shields.io/badge/-RESTful_API-05122A?style=flat&logo=RESTful_API&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=Shell&logoColor=A8B9CC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
@@ -51,10 +55,6 @@ I am an undergraduate Softawre Engineering student at Holberton School. C, Pytho
 - [What happens when you type holbertonschool.com in your browser en press "Enter" 💻](https://www.linkedin.com/pulse/what-happens-when-you-type-holbertonschoolcom-your-en-bassem/)
 - [Postmortem: Server down](https://www.linkedin.com/pulse/postmortem-server-down-bassem-ben-yahia-marzougui/)
 
-#### Digital Marketing Blog posts:
-- [Entity-Based SEO is a New Way of Thinking About Optimization [Google New Feature]](https://www.linkedin.com/pulse/entity-based-seo-new-way-thinking-optimization-google-bassem/)
-- [Facebook New Pages Experience: All You Need to Know](https://www.linkedin.com/pulse/facebook-new-pages-experience-all-you-need-know-ben-yahia-marzougui/)
-- [Social Media Trends and Opportunities for 2021](https://www.linkedin.com/pulse/social-media-trends-opportunities-2021-bassem-ben-yahia-marzougui/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
