@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/bassembenyhia12" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bassem-ben-yahia/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/bassem-ben-yahia/" target="blank"><img align="center" src="https://github.com/tennin12/tennin12/blob/main/linkedin.png" alt="lin_ovindu" height="30" width="40" /></a>  
  <a href = "mailto: bassem.yahia@holbertonschool.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bassem!;I'm+a+Web+Developer...;And+I'm+a+proud+Tunisian)]()
