@@ -21,7 +21,7 @@ I am a Full Stack Developer able to build a Web presence from the ground up - fr
 ### 🛠 &nbsp;Tech Stack
 ![Nodejs](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodejs)&nbsp;
 ![Reactjs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![expressjs](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express-js)&nbsp;
+![expressjs](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -34,11 +34,18 @@ I am a Full Stack Developer able to build a Web presence from the ground up - fr
 ![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb)&nbsp;
 ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=fff)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=Shell&logoColor=A8B9CC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
+![YARN](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=yarn)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
+![Vite](https://img.shields.io/badge/-Vitejs-05122A?style=flat&logo=vite)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
+![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
