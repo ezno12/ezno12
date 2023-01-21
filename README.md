@@ -29,7 +29,7 @@ I am a Full Stack Developer able to build a Web presence from the ground up - fr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=1572B6)&nbsp;
-![RESTful_API](https://img.shields.io/badge/-RESTful_API-05122A?style=flat&logo=RESTful_API&logoColor=1572B6)&nbsp;
+![RESTful_API](https://img.shields.io/badge/-RESTful_API-05122A?style=flat&logo=restfullapi&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
