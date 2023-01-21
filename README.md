@@ -1,22 +1,21 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Bassem Yahia's Profile! </h1>
-<h3 align="center">Full Stack Web Developer </h3>
+<h3 align="center">Full Stack Developer </h3>
 <p align="center">
 <a href="https://linkedin.com/in/bassem-ben-yahia" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto: bassem.yahia@holbertonstudents.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=gmail alt=gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=white&style=for-the-badge&logo=gmail alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://codeforces.com/profile/tennin12" target="_blank">
-<img src=https://img.shields.io/badge/codeforces-%3b5998.svg?color=C13584&style=for-the-badge&logo=codeforces alt=codeforces style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/codeforces-%ff5851db.svg?color=3b5998&style=for-the-badge&logo=codeforces alt=codeforces style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.hackerrank.com/bassembenyhia12" target="_blank">
+<img src=https://img.shields.io/badge/hackerrank-%ff5851db.svg?color=white&style=for-the-badge&logo=hackerrank alt=codeforces style="margin-bottom: 5px;" />
 </a>
 
- 
-<a href="https://www.hackerrank.com/bassembenyhia12" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bassem-ben-yahia/" target="blank"><img align="center" src="https://github.com/tennin12/tennin12/blob/main/linkedin.png" alt="lin_ovindu" height="30" width="40" /></a>  
- <a href = "mailto: bassem.yahia@holbertonstudents.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bassem!;I'm+a+Web+Developer...;And+I'm+a+proud+Tunisian)]()
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bassem!;I'm+a+Full+Stack+Web+Developer...;And+I'm+a+proud+Tunisian)]()
 
   
   ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
