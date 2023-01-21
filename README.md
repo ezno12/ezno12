@@ -21,7 +21,7 @@ I am a Full Stack Developer able to build a Web presence from the ground up - fr
 ### 🛠 &nbsp;Tech Stack
 ![Nodejs](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodejs)&nbsp;
 ![Reactjs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![expressjs](https://img.shields.io/badge/-Express-05122A?style=flat&logo=expressjs)&nbsp;
+![expressjs](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express-js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
