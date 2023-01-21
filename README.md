@@ -18,7 +18,7 @@ I am an undergraduate Softawre Engineering student at Holberton School. C, Pytho
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read books, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bassem.Yahia@Holbetonschool.com">bassem.Yahia@Holbetonschool.com</a>
+- 📫 Reach out to me at: <a href="bassem.yahia@holbertonstudents.com">bassem.yahia@holbertonstudents.com</a>
   
 ### 🛠 &nbsp;Tech Stack
 
