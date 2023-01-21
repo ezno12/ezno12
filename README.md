@@ -19,7 +19,7 @@ I am a Full Stack Developer able to build a Web presence from the ground up - fr
 - 📫 Reach out to me at: <a href="bassem.yahia@holbertonstudents.com">bassem Yahia</a>
   
 ### 🛠 &nbsp;Tech Stack
-![Nodejs](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodejs)&nbsp;
+![Nodejs](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node%20js)&nbsp;
 ![Reactjs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![expressjs](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -35,7 +35,7 @@ I am a Full Stack Developer able to build a Web presence from the ground up - fr
 ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=fff)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Shell](https://img.shields.io/badge/-Shell-Programming-05122A?style=flat&logo=Shell&logoColor=A8B9CC)&nbsp;
+![Shell](https://img.shields.io/badge/-Shell%20Programming-05122A?style=flat&logo=Shell&logoColor=A8B9CC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
