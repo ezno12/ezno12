@@ -1,6 +1,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Bassem Yahia's Profile! </h1>
 <h3 align="center">Full Stack Web Developer </h3>
 <p align="center">
+<a href="https://linkedin.com/in/bassem-ben-yahia" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto: bassem.yahia@holbertonstudents.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/abdo.achhoubi" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+
+ 
 <a href="https://www.hackerrank.com/bassembenyhia12" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bassem-ben-yahia/" target="blank"><img align="center" src="https://github.com/tennin12/tennin12/blob/main/linkedin.png" alt="lin_ovindu" height="30" width="40" /></a>  
  <a href = "mailto: bassem.yahia@holbertonstudents.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
