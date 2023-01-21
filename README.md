@@ -12,9 +12,7 @@
 
 I am a Full Stack Developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development.  I love building something new througt convert requirements into exciting online applications.
 * **I am interested in Web Development, Web designing, and Digital Marketing**
-- 🌱 I’m currently learning ...
-  - React
-  - JQuery
+- 🌱 I’m currently full-time PERN full Stack Develper
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read books, 🎵 listen to music, and 🌴 explore nature outdoors.
