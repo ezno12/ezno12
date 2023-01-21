@@ -10,7 +10,7 @@
   
   ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Softawre Engineering student at Holberton School. C, Python, Flask, Javascript, HTML, CSS, Boostrap, JQuery, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am a Full Stack Developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development.  I love building something new througt convert requirements into exciting online applications.
 * **I am interested in Web Development, Web designing, and Digital Marketing**
 - 🌱 I’m currently learning ...
   - React
@@ -18,7 +18,7 @@ I am an undergraduate Softawre Engineering student at Holberton School. C, Pytho
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read books, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bassem.yahia@holbertonstudents.com">bassem.yahia@holbertonstudents.com</a>
+- 📫 Reach out to me at: <a href="bassem.yahia@holbertonstudents.com">bassem Yahia</a>
   
 ### 🛠 &nbsp;Tech Stack
 
