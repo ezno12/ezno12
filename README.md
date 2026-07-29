@@ -7,11 +7,11 @@
 <a href="mailto: bassem.yahia@holbertonstudents.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=white&style=for-the-badge&logo=gmail alt=gmail style="margin-bottom: 5px;" />
 </a>
+<a href="[https://www.hackerrank.com/bassembenyhia12](https://leetcode.com/u/ezno12/)" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116.svg?color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
+</a>
 <a href="https://codeforces.com/profile/tennin12" target="_blank">
 <img src=https://img.shields.io/badge/codeforces-%ff5851db.svg?color=3b5998&style=for-the-badge&logo=codeforces alt=codeforces style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.hackerrank.com/bassembenyhia12" target="_blank">
-<img src=https://img.shields.io/badge/hackerrank-%ff5851db.svg?color=white&style=for-the-badge&logo=hackerrank alt=codeforces style="margin-bottom: 5px;" />
 </a>
 
   
