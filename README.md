@@ -1,88 +1,84 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Bassem Yahia's Profile! </h1>
-<h3 align="center">Full Stack Developer </h3>
-<p align="center">
-<a href="https://linkedin.com/in/bassem-ben-yahia" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto: bassem.yahia@holbertonstudents.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=white&style=for-the-badge&logo=gmail alt=gmail style="margin-bottom: 5px;" />
-</a>
-<a href="https://leetcode.com/u/ezno12" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116.svg?color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
-</a>
-<a href="https://codeforces.com/profile/tennin12" target="_blank">
-<img src=https://img.shields.io/badge/codeforces-%ff5851db.svg?color=3b5998&style=for-the-badge&logo=codeforces alt=codeforces style="margin-bottom: 5px;" />
-</a>
-
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bassem!;I'm+a+Full+Stack+Web+Developer...;And+I'm+a+proud+Tunisian)]()
-
-  
-  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
-I am a Full Stack Developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development.  I love building something new througt convert requirements into exciting online applications.
-* **I am interested in Web Development, Web designing, and Digital Marketing**
-- 🌱 I’m currently full-time PERN full Stack Develper at Aures Group.
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read books, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bassem.yahia@holbertonstudents.com">bassem Yahia</a>
-  
-### 🛠 &nbsp;Tech Stack
-![Nodejs](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
-![Reactjs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![expressjs](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=A8B9CC)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=1572B6)&nbsp;
-![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=fff)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Shell](https://img.shields.io/badge/-Shell%20Programming-05122A?style=flat)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
-![YARN](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
-![Vite](https://img.shields.io/badge/-Vitejs-05122A?style=flat&logo=vite)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
-![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
+<h1 align="center">Hi 👋, I'm Bassem Ben Yahia</h1>
+<h3 align="center">Full Stack Developer · React · Node.js · Electron · Flutter<br/>Building POS, self-service kiosk & payment software for retail and restaurants</h3>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ezno12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ezno12&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://linkedin.com/in/bassem-ben-yahia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/ezno12" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/tennin12" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <img src="https://img.shields.io/badge/Tunis,%20Tunisia-555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
-### 📕 My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-#### IT Blog posts:
-- [Python - Everything is an Object!🐍](https://www.linkedin.com/pulse/python-everything-object-bassem-ben-yahia-marzougui/)
-- [What is the Internet of Things](https://www.linkedin.com/pulse/what-internet-things-bassem-ben-yahia-marzougui/)
-- [What happens when you type holbertonschool.com in your browser en press "Enter" 💻](https://www.linkedin.com/pulse/what-happens-when-you-type-holbertonschoolcom-your-en-bassem/)
-- [Postmortem: Server down](https://www.linkedin.com/pulse/postmortem-server-down-bassem-ben-yahia-marzougui/)
-
-<!-- BLOG-POST-LIST:END -->
 ---
 
-<h1>Thank You! 🤵 </h1>
-<Br>
+### 🧑‍💻 About me
 
-------
-  
-Credit: [Bassem Y.](https://github.com/tennin12)
+I'm a Full Stack Developer with **4 years of experience** shipping production software for the **point-of-sale and retail industry**. I work across the whole stack — from React/Electron desktop apps and Flutter clients to Node.js services and the hardware they talk to (payment terminals, cash machines, kiosks).
+
+- 🏢 Currently **Full Stack Developer at Softavera** (since Sep 2024)
+- 🖥️ Previously **Full Stack Developer at AURES Group** (2022 – 2024), POS & retail solutions
+- 🎓 Software engineering graduate of **Holberton School**
+- 🌍 Open to remote, hybrid and on-site opportunities
+- 💬 Ask me about **Electron desktop apps, payment/cash-machine integrations, offline-first POS, React performance**
+
+---
+
+### 🚀 What I build at work
+
+| Project | What I do | Stack |
+|---|---|---|
+| **Self-service ordering kiosk** | Core contributor: customer auth (phone/email), loyalty & rewards programs, marketing consent, menu/formula composition, product-grid performance | React · TypeScript · Electron · Redux Toolkit · React Query · MUI |
+| **Next-gen POS (cash register)** | Offline-first sessions, cash-machine channel & refunds, maintenance ports, licence auditing | Flutter · Dart · Hive · Socket.IO |
+| **POS / kiosk middleware** | APIs that sync catalogue, customers and loyalty data between back-office, kiosks and POS | Node.js · Express · TypeScript |
+| **Cash-machine & payment integrations** | Drivers/packages for Glory & CashDro cash recyclers and Adyen, Worldline, Nepting terminals; Windows services | Node.js · Windows Services |
+| **Access control & licensing** | Role/profile authorization back-office; licence console for the product suite | React · Node.js · PostgreSQL |
+
+> Most of this work lives in private company repositories — happy to talk about it in more detail.
+
+---
+
+### 🛠️ Tech stack
+
+**Languages**<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Frontend & desktop**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+**Backend & data**<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Tools & DevOps**<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ezno12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ezno12&layout=compact&langs_count=8&theme=algolia" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center"><i>“Clean code always looks like it was written by someone who cares.” — Robert C. Martin</i></p>
